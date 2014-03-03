@@ -1,10 +1,10 @@
 package location;
 
-public class main {
+public class Main {
 
 	public static void main(String[] args) {
 		
-		testMap foo = new testMap();
+		TestMap foo = new TestMap();
 		foo.testFloorSetup();
 		System.out.println(foo.getDirection1(802));
 		//testing

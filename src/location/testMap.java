@@ -10,7 +10,7 @@ import java.util.List;
 import location.PointOfInterest;
 import location.Path;
 
-public class testMap {
+public class TestMap {
 	List<PointOfInterest> lPOI = new ArrayList<PointOfInterest>();
 	List<PointOfInterest> lRoom = new ArrayList<PointOfInterest>();
 	List<Path> lPath = new ArrayList<Path>();
